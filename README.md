@@ -30,3 +30,5 @@ G1 Z2 F150 ; lift nozzle more
 ```
 
 This edit contains nozzle oozing to the purge zone, along with preheating the print bed prior to bed leveling for better consistency. This should be utilized for starting every print for optimal results. 
+
+Minimizes first-layer errors, ideal for print farms and high-risk prints.
