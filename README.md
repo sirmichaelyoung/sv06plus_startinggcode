@@ -1,4 +1,4 @@
-<h3>Sovol SV06 Plus Starting GCode update for improved purging and bed leveling
+<h3>Sovol SV06 Plus Starting G-Code update for improved purging and bed leveling
 </h3>
 
 ```
